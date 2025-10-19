@@ -1,0 +1,13 @@
+# Ignore everything in the models, runs, and wandb directories
+Data/*
+Lib/*
+Scripts/*
+pyvenv.cfg
+etc/jupyter/*
+share/jupyter/*
+LICENSE
+__pycache__/*
+share/man/*
+.vscode/settings.json
+/METADATA.md
+.idea
